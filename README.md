@@ -1,2 +1,3 @@
 # Todo-app
-MEAN stack learning
+Node.js todo app
+
